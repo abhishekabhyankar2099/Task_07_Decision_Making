@@ -14,7 +14,7 @@ This repository contains materials for **Research Task 7: Ethical Implications o
 - 
 
 ## Reproducibility  
-- Run scripts in `Scripts/` with **Python 3.x**   
+- Run scripts with **Python 3.x**   
 - Outputs can be compared with LLM transcripts  
 
 ## Author  
